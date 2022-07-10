@@ -1,2 +1,3 @@
 # o-example-game
-# welcome to my first repo
+welcome to my first repo
+show me history plz!
